@@ -1,0 +1,1 @@
+pub const SUCCESS: &'static str = "success";

@@ -1,0 +1,2 @@
+[global.databases]
+diesel_posts = { url = "postgres://postgres:pgpassword@127.0.0.1:5432/test" }
